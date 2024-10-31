@@ -6,4 +6,5 @@ echo "hello"
 echo "Welcome to ygminds"
 echo "batch"
 echo "hello"
+echo "this is for fix'12345'"
 
