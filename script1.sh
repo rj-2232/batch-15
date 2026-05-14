@@ -5,6 +5,10 @@ echo "batch"
 echo "hello"
 echo "Welcome to ygminds"
 echo "batch"
+echo "hello"echo "Welcome to ygminds"
+echo "batch"
 echo "hello"
+
+
 
 
